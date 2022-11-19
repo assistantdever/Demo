@@ -7,4 +7,7 @@ class SignUpPage extends Page
 
 	public function do_post()
 	{}
+	
+	private function save()
+	{}
 }
